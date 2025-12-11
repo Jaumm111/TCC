@@ -1,0 +1,2 @@
+source /var/home/joao/pgen/TCC/New_modbus_mqtt/build/bootloader/gdbinit/symbols
+source /var/home/joao/pgen/TCC/New_modbus_mqtt/build/bootloader/gdbinit/connect

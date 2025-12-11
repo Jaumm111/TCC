@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/var/home/joao/pgen/TCC/New_modbus_mqtt/build/CMakeFiles/bootloader
+/var/home/joao/pgen/TCC/New_modbus_mqtt/build/CMakeFiles/bootloader.rule
+/var/home/joao/pgen/TCC/New_modbus_mqtt/build/CMakeFiles/bootloader-complete.rule
+/var/home/joao/pgen/TCC/New_modbus_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/var/home/joao/pgen/TCC/New_modbus_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/var/home/joao/pgen/TCC/New_modbus_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/var/home/joao/pgen/TCC/New_modbus_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/var/home/joao/pgen/TCC/New_modbus_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/var/home/joao/pgen/TCC/New_modbus_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/var/home/joao/pgen/TCC/New_modbus_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
